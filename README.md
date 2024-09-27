@@ -3,7 +3,7 @@
 This repository contains an AI chatbot built using **React** for the frontend and **Appwrite** for the backend. The chatbot mimics the functionality of ChatGPT, providing users with a conversational AI experience for answering various queries.
 
 ## Demo
-[Add a link to the live demo or deployment of your project]
+[https://groqunofficial.vercel.app/](https://groqunofficial.vercel.app/)
 
 ## Features
 - Real-time conversational AI interface.
